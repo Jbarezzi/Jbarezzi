@@ -2,9 +2,6 @@
 
 - My name is Juan! 👨‍💻
 - I'm a Full Stack Web Developer under development 🖥️;
-- Fun Facts:
-    - I have 3 cats;
-    - I'm a Streamer at CovilRPG => <a href="https://www.twitch.tv/covilrpg"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
     
 ## My Skills
 
