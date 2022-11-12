@@ -54,6 +54,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbarezzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jbarezzi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarezzi&show_icons=true&theme=dracula&locale=en" alt="jbarezzi" /></p>
+</div>
