@@ -6,6 +6,10 @@
 
 - 💬 Ask me about **React, JavaScript and Typescript**
 
+## How to reach me:
+<a href = "mailto:juanbarezzi.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/juanbarezzi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+
 ## Languages and Tools:
 
 ### Languages:
